@@ -1,2 +1,2 @@
 # primer-repo-g
-Primer repo
+Primer repo by @paulonner
